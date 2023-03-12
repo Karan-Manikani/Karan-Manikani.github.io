@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "iGames",
+      "description": "iGames is a game store website built using the MERN stack that allows users to register, log in, browse games, search for games, add games to their wishlist and cart, and watch gameplay and game trailers for available games.",
+      "technologies": ["React", "NodeJS", "MongoDB", "Express", "JavaScript", "HTML", "CSS"],
+      "tags": ["Frontend Development", "Backend Development", "Web Development"],
+      "github": "https://github.com/Karan-Manikani/iGames-frontend",
+      "website": "https://i-games-frontend.vercel.app/",
+      "image": "https://www.linkpicture.com/q/Screenshot-2022-12-07-204145.png"
+    },
+    {
+      "id": 2,
+      "title": "Transport-not-transport",
+      "description": "A computer vision app that tells you whether a photo contains a mode of transport or not, along with the probability.",
+      "technologies": ["Python", "Tensorflow", "Numpy", "Matplotlib"],
+      "tags": ["Machine Learning"],
+      "github": "https://github.com/Karan-Manikani/transport-not-transport",
+      "website": "",
+      "image": "https://www.linkpicture.com/q/LPic640c3f37afce5585110080.png"
+    },
+    {
+      "id": 3,
+      "title": "Notes App",
+      "description": "An easy-to-use app for taking notes that enables users to add, remove, edit, and view notes. This app was built using React.js.",
+      "technologies": ["React", "JavaScript", "HTML", "CSS"],
+      "tags": ["Frontend Development", "Web Development"],
+      "github": "https://github.com/Karan-Manikani/notes-app",
+      "website": "https://karan-manikani.github.io/notes-app/",
+      "image": "https://www.linkpicture.com/q/notesapp.png"
+    },
+    {
+      "id": 4,
+      "title": "Image Compression using Quadtrees",
+      "description": "The project aims to achieve image compression using quadtree data structure. The image is recursively divided into quadrants till it reaches the case where the all the neighbouring quadrants occupy same or similar colour.",
+      "technologies": ["Python", "Pillow", "Numpy", "Tkinter"],
+      "tags": ["Algorithms"],
+      "github": "https://github.com/Karan-Manikani/DSA_Project",
+      "website": "",
+      "image": "https://www.linkpicture.com/q/LPic640c3ebfbde9a2086634999.gif"
+    },
+    {
+      "id": 5,
+      "title": "Titanic ML Challenge (Kaggle)",
+      "description": "This project uses machine learning to create a model that predicts which passengers survived the tragedy (Ranked in the top 10% of all submissions). Covers EDA, data cleaning, and model creation.",
+      "technologies": ["Python", "Scikit-Learn", "Matplotlib", "Seaborn", "Pandas", "Numpy"],
+      "tags": ["Machine Learning"],
+      "github": "https://github.com/Karan-Manikani/Titanic-Machine-Learning-Project",
+      "website": "",
+      "image": "https://www.linkpicture.com/q/titanic_1.jpg"
+    }
+  ]
+}
