@@ -1,12 +1,12 @@
 import React from "react";
 import Button from "../components/Button";
-import placeholder from "../placeholder.jpg";
+import me from "../me.jpeg";
 
 function HomeScreen() {
   return (
     <div className="flex flex-row mt-20 w-2/3 mx-auto justify-center fadein">
       <div className=" basis-2/5">
-        <img className="h-80 w-80 rounded-full" src={placeholder} alt="Profile pic" />
+        <img className="h-80 w-80 rounded-full" src={me} alt="Profile pic" />
       </div>
       <div className="basis-2/6 flex flex-col justify-center">
         <h2 className="font-bold text-7xl mb-5">Hello</h2>
